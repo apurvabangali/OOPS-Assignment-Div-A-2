@@ -3,19 +3,17 @@
 Java Assignment
 
 About me
-Archit Madankar
-Roll No. - 22
-PRN - 1132220243
-How to Run
-Requirements JAVA 8
-How to run
+Name:APURVA
+Roll No. - 2
+PRN - 1132220036
 
-In Command Prompt
-
-  
-Screenshots
 Welcome Message
 ![WhatsApp Image 2022-11-18 at 09 39 51](https://user-images.githubusercontent.com/107414864/202624978-8e61a3d5-475e-4280-a1c2-0f718d7dd45f.jpg)
+
+
+
+
+
 
 
 User Input
@@ -23,8 +21,19 @@ User Input
 
 
 
+
+
+
+
+
+
 Goodbye Message 
 ![WhatsApp Image 2022-11-18 at 10 56 12](https://user-images.githubusercontent.com/107414864/202627294-30ffe915-862f-4e5e-960a-12df0f220e7f.jpg)
+
+
+
+
+
 
  Project Finished
 
